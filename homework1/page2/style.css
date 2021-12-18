@@ -1,0 +1,28 @@
+body{
+    font-family: 'Comfortaa', cursive;
+}
+.col{
+    background:whites;
+
+    margin:1%;
+    float:left;
+    width:23%;
+}
+h1{
+    text-align: center;
+    color: gray;
+    font-size: xx-large;
+}
+h3{
+    text-align: center;
+    color: lightgray;
+}
+nav{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+hr{
+    color: orange;
+    width:200px;
+    border: 2px solid orange;
+}
